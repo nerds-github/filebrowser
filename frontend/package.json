@@ -65,7 +65,7 @@
     "jsdom": "^24.0.0",
     "postcss": "^8.4.38",
     "prettier": "^3.2.5",
-    "terser": "^5.30.0",
+    "terser": "^5.34.1",
     "vite": "^5.4.6",
     "vite-plugin-compression2": "^1.0.0",
     "vue-tsc": "^2.0.7"
